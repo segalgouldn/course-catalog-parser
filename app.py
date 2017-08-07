@@ -60,7 +60,12 @@ def make_course_list(urls, has_new_distributions=True, division_between_dates_an
                     break
 
         locations = []
-        if has_new_distributions:
+        if has_new_distributions and not division_between_dates_and_times:
+            for i in range(len(widths)):
+                locations = [dt.text.replace("\xa0", " ").replace("\n", " ").replace("\r", "").strip() for dt in soup.find_all("td", {"width": str(widths[i][4])})]
+                if len(locations) >= 1:
+                    break
+        elif not has_new_distributions and not division_between_dates_and_times:
             for i in range(len(widths)):
                 locations = [dt.text.replace("\xa0", " ").replace("\n", " ").replace("\r", "").strip() for dt in soup.find_all("td", {"width": str(widths[i][4])})]
                 if len(locations) >= 1:
