@@ -12,3 +12,7 @@ At the moment, the parser program `app.py` takes around 30 seconds to parse thro
 This project was partially inspired by [@sabo](https://github.com/sabo).
 
 P.S. Sorry for my ridiculous list comprehensions.
+
+### Related Repositories:
+* [Course Catalog Server](https://github.com/segalgouldn/sproj-course-catalog-server)
+* [Course Catalog Classifier](https://github.com/segalgouldn/sproj-course-catalog-classifier)
