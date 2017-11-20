@@ -1,5 +1,4 @@
 # Course Catalog Parser
-### A part of my Senior Project
 Using Beautiful Soup to scrape the courses from Bard College course catalogs into JSON files.
 
 The project will have three parts:
@@ -14,5 +13,5 @@ This project was partially inspired by [@sabo](https://github.com/sabo).
 P.S. Sorry for my ridiculous list comprehensions.
 
 ### Related Repositories:
-* [Course Catalog Server](https://github.com/segalgouldn/sproj-course-catalog-server)
-* [Course Catalog Classifier](https://github.com/segalgouldn/sproj-course-catalog-classifier)
+* [Course Catalog Server](https://github.com/segalgouldn/course-catalog-server)
+* [Course Catalog Classifier](https://github.com/segalgouldn/course-catalog-classifier)
