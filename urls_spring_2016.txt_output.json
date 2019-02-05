@@ -4200,34 +4200,6 @@
         "url": "http://inside.bard.edu/academic/courses/spring2016/computer.html"
     },
     {
-        "course_code": "BLC 150",
-        "course_registration_number": 16281,
-        "course_title": "Algebra Workshop",
-        "department": "mathematics",
-        "description": "(2 credits) This course provides a review of the algebra used in math, science, and social science courses. It is designed for students who would like to improve their algebra skills while taking or in preparation to take an introductory math, science, economics or statistics course.Topics include linear equations and their graphs, quadratic equations, fractions, rational expressions, and exponents. This course will be graded Pass/Fail. No distributional credit is earned. Class size: 22",
-        "locations": "11:50 am \u2013 1:10 pm",
-        "new_distributions": "",
-        "old_distributions": "HEG 308",
-        "professors": "Maria Belk",
-        "schedules": "M 11:50 am-1:10 pm",
-        "season": "spring2016",
-        "url": "http://inside.bard.edu/academic/courses/spring2016/mathematics.html"
-    },
-    {
-        "course_code": "BLC 190",
-        "course_registration_number": 16282,
-        "course_title": "Algebra, Trigonometry, Functions",
-        "department": "mathematics",
-        "description": "(2 credits) This course is designed for students who have taken a pre-calculus course in high school or at Bard, but would like more computational practice with algebra, trigonometry, logarithms and exponentials.This course can be taken at the same time as a math, science, or economics course, or in preparation to take such a course in a subsequent semester. This course will be graded Pass/Fail. No distributional credit is earned. This course will meet for the first 10 weeks of the semester. Class size: 22",
-        "locations": "5:00 pm -7:00 pm",
-        "new_distributions": "",
-        "old_distributions": "HEG 204",
-        "professors": "Maria Belk",
-        "schedules": "T 5:00 pm -7:00 pm",
-        "season": "spring2016",
-        "url": "http://inside.bard.edu/academic/courses/spring2016/mathematics.html"
-    },
-    {
         "course_code": "PHYS 116",
         "course_registration_number": 16090,
         "course_title": "Acoustics",

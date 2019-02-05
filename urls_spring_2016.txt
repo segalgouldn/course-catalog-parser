@@ -25,7 +25,6 @@ http://inside.bard.edu/academic/courses/spring2016/spanish.html
 http://inside.bard.edu/academic/courses/spring2016/biology.html
 http://inside.bard.edu/academic/courses/spring2016/chemistry.html
 http://inside.bard.edu/academic/courses/spring2016/computer.html
-http://inside.bard.edu/academic/courses/spring2016/mathematics.html
 http://inside.bard.edu/academic/courses/spring2016/physics.html
 http://inside.bard.edu/academic/courses/spring2016/psychology.html
 http://inside.bard.edu/academic/courses/spring2016/hpsscience.html
